@@ -1,0 +1,7 @@
+numpy
+pandas
+unidecode
+nltk
+blingfire
+awscli
+lightgbm==2.3.1
