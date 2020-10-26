@@ -32,7 +32,7 @@ Warning: you will need more than 17G of ram because of the large `kenlm` models 
 
 An example of how to use this repo:
 
-```
+```python
 from s2search.rank import S2Ranker
 
 # point to the artifacts downloaded from s3
